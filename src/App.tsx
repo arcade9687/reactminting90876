@@ -303,7 +303,8 @@ export default function Home() {
   }
 
   return (
-    <div className="bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black w-screen min-h-screen">
+    
+    <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black">
       <ConnectWallet className="!absolute !right-4 !top-4" theme={theme} />
       <div className=" grid h-screen grid-cols-1 lg:grid-cols-12">
         <div className="items-center justify-center hidden w-full h-full lg:col-span-5 lg:flex lg:px-12">
