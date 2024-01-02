@@ -14,5 +14,5 @@ line 331 Total minted units ghost h w color
 
 
  line 316 right box color
-
+ line 306 full site gradient
  தமிழன் 
